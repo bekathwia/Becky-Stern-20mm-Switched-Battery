@@ -14,7 +14,7 @@ Repository Contents
 
 License Information
 -------------------
-This work is derivative of another open source product-- the SparkFun LilyPad Coin Cell Battery Holder-Switched
+This work is derivative of another open source product-- the [SparkFun LilyPad Coin Cell Battery Holder-Switched](https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched)
 
 Just as the original, this hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
