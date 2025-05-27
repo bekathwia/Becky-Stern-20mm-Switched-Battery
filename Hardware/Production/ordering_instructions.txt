@@ -1,4 +1,4 @@
-recommended vendor: https://jlcpcb.com/
+recommended vendor: https://jlcpcb.com/?from=BeckyStern
 PCB thickness, 0.8mm
 number of layers, 2
 soldermask color, Black
